@@ -1,0 +1,3 @@
+[submodule "grafikk"]
+	path = grafikk
+	url = https://gitlab.stud.idi.ntnu.no/ingakv/grafikk.git
