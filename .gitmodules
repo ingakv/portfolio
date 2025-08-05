@@ -4,3 +4,6 @@
 [submodule "graphics-programming"]
 	path = graphics-programming
 	url = https://github.com/ingakv/graphics-programming
+[submodule "stack-interpreter"]
+	path = stack-interpreter
+	url = https://github.com/ingakv/stack-interpreter
