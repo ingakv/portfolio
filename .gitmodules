@@ -1,6 +1,6 @@
-[submodule "grafikk"]
-	path = grafikk
-	url = https://github.com/ingakv/grafikk.git
 [submodule "gogame"]
 	path = gogame
 	url = https://github.com/ingakv/gogame.git
+[submodule "graphics-programming"]
+	path = graphics-programming
+	url = https://github.com/ingakv/graphics-programming
