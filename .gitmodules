@@ -1,9 +1,9 @@
-[submodule "gogame"]
-	path = gogame
-	url = https://github.com/ingakv/gogame.git
 [submodule "graphics-programming"]
 	path = graphics-programming
 	url = https://github.com/ingakv/graphics-programming
 [submodule "stack-interpreter"]
 	path = stack-interpreter
 	url = https://github.com/ingakv/stack-interpreter
+[submodule "go-game"]
+	path = go-game
+	url = https://github.com/ingakv/go-game
